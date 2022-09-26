@@ -35,16 +35,15 @@
     padding: 10px 20px;
     font-size: 20px;
     background-color: rgb(44, 42, 42);
+    border-radius: 20px;
 }
 .landingpage_btn > a {
     color: white;
     text-decoration: none;
 }
-.landingpage_btn:hover {
-    background-color: white;
-}
-.landingpage_btn > a:hover {
+.landingpage_btn:hover, .landingpage_btn > a:hover {
     color: black;
+    background-color: white;
 }
 .highlighting {
     color: #F6C90E;
