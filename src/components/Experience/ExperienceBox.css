@@ -1,0 +1,26 @@
+.ex_box_container {
+    background-color: #222831;
+    color: white;
+    width: 550px;
+    padding: 10px;
+    box-shadow: -8px 8px 8px 0 #706C61;
+    margin: 20px;
+}
+.ex_box_title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 20px 0;
+}
+.ex_box_statements {
+    font-size: 16px;
+}
+.ex_box_statements > p {
+    padding: 5px 0;
+}
+.ex_box_tech_used {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 20px 0;
+}

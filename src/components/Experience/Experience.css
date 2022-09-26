@@ -1,0 +1,15 @@
+.ex_container {
+    background-color: #E1F4F3;
+    color: black;
+    padding: 10px;
+}
+.ex_title {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+.ex_boxes_container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

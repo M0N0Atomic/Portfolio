@@ -1,0 +1,21 @@
+.ts_container {
+    color: black;
+    background-color: white;
+    padding: 40px 7%;
+}
+.ts_title {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+.ts_images_container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.ts_images_container > div {
+    padding: 20px;
+}
+.ts_images_container > div > p {
+    text-align: center;
+}

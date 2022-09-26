@@ -1,0 +1,29 @@
+.project_box_container {
+    width: 550px;
+    margin: 20px;
+}
+.project_box_image_container > img {
+    width: 75%;
+    margin-left: 70px;
+    align-content: center;
+    box-shadow: -8px 8px 8px 0 #706C61;
+}
+.project_box_description_container {
+    padding: 0 10px;
+}
+.project_box_title {
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    color: #4592AF;
+}
+.project_box_sentences_container > p, .project_box_link {
+    font-size: 18px;
+}
+.project_box_link > span {
+    color: #706C61;
+    font-weight: 700;
+}
+.project_box_link > a {
+    color: #333333;
+}

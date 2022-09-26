@@ -1,0 +1,56 @@
+.landingpage_container {
+    background-color: black;
+    color: white;
+    padding: 60px 7%;
+    font-size: 20px;
+}
+.landingpage_name {
+    font-size: 42px;
+    font-weight: 700;
+    color: #F6C90E;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+/* .landingpage_designation {
+    font-size: 28px;
+    margin-top: -20px;
+    font-weight: 700;
+} */
+.landingpage_description {
+    font-size: 20px;
+}
+.social_logo {
+    margin: 30px 0;
+    display: flex;
+}
+.social_logo_image {
+    width: 50px;
+}
+.social_logo_image:hover {
+    cursor: pointer;
+    transform: translateY(-2px);
+}
+.landingpage_btn {
+    /* margin: 15px 0; */
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: rgb(44, 42, 42);
+}
+.landingpage_btn > a {
+    color: white;
+    text-decoration: none;
+}
+.landingpage_btn:hover {
+    background-color: white;
+}
+.landingpage_btn > a:hover {
+    color: black;
+}
+.highlighting {
+    color: #F6C90E;
+}
+.interest {
+    text-decoration: underline;
+    text-decoration-color: #F6C90E;
+}
+
