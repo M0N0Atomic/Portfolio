@@ -4,7 +4,7 @@
     /* display: flex; */
     /* justify-content: space-between; */
     text-align: center;
-    align-items: center;
+    /* align-items: center; */
     padding: 5px 7%;
     /* flex-direction: column; */
 }
@@ -27,11 +27,16 @@
 }
 
 .navbar_right {
-    padding-top: 10px;
+    /* padding-top: 10px;*/
+    /* margin-left: 45px;  */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
 }
 
 .navbar_right > a {
-    margin: 0 89px;
+    margin: 0 60px;
     font-size: 25px;
     text-align: center;
     text-decoration: none;
