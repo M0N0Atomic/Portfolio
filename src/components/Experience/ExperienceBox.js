@@ -22,7 +22,6 @@ function ExperienceBox({
                 <p>{arrow} {stat4}</p>
                 <p>{arrow} {stat5}</p>
             </div>
-            <p className="ex_box_tech_used">Tech Used</p>
         </div>
     )
 }
